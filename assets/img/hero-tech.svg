@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="Equipo desarrollando una solución digital">
+  <rect width="720" height="520" rx="28" fill="#f2f7f4"/>
+  <rect x="66" y="64" width="588" height="350" rx="22" fill="#17201b"/>
+  <rect x="88" y="88" width="544" height="304" rx="12" fill="#ffffff"/>
+  <rect x="112" y="118" width="170" height="18" rx="9" fill="#0f8f4f"/>
+  <rect x="112" y="158" width="250" height="12" rx="6" fill="#dbe2de"/>
+  <rect x="112" y="180" width="205" height="12" rx="6" fill="#dbe2de"/>
+  <rect x="112" y="218" width="220" height="126" rx="16" fill="#e9f7ef"/>
+  <path d="M155 310l42-46 35 28 54-70" fill="none" stroke="#0f8f4f" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="365" y="218" width="235" height="20" rx="10" fill="#17201b"/>
+  <rect x="365" y="255" width="205" height="12" rx="6" fill="#dbe2de"/>
+  <rect x="365" y="279" width="185" height="12" rx="6" fill="#dbe2de"/>
+  <rect x="365" y="315" width="110" height="34" rx="10" fill="#0f8f4f"/>
+  <path d="M260 416h200l38 50H222z" fill="#37413c"/>
+  <circle cx="120" cy="434" r="38" fill="#0f8f4f" opacity=".22"/>
+  <circle cx="610" cy="86" r="54" fill="#0f8f4f" opacity=".18"/>
+</svg>

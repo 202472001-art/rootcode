@@ -1,0 +1,41 @@
+No syntax errors detected in ./admin/contactos.php
+No syntax errors detected in ./admin/dashboard.php
+No syntax errors detected in ./admin/index.php
+No syntax errors detected in ./admin/mensajes.php
+No syntax errors detected in ./admin/portafolio.php
+No syntax errors detected in ./admin/solicitudes.php
+No syntax errors detected in ./auth/login.php
+No syntax errors detected in ./auth/logout.php
+No syntax errors detected in ./auth/recuperar.php
+No syntax errors detected in ./auth/registro.php
+No syntax errors detected in ./auth/restablecer.php
+No syntax errors detected in ./cliente/dashboard.php
+No syntax errors detected in ./cliente/index.php
+No syntax errors detected in ./cliente/mensajes.php
+No syntax errors detected in ./cliente/perfil.php
+No syntax errors detected in ./cliente/solicitudes.php
+No syntax errors detected in ./config/app.php
+No syntax errors detected in ./config/database.php
+No syntax errors detected in ./contacto.php
+No syntax errors detected in ./dashboard.php
+No syntax errors detected in ./includes/admin_footer.php
+No syntax errors detected in ./includes/admin_header.php
+No syntax errors detected in ./includes/auth.php
+No syntax errors detected in ./includes/bootstrap.php
+No syntax errors detected in ./includes/client_footer.php
+No syntax errors detected in ./includes/client_header.php
+No syntax errors detected in ./includes/footer.php
+No syntax errors detected in ./includes/functions.php
+No syntax errors detected in ./includes/header.php
+No syntax errors detected in ./index.php
+No syntax errors detected in ./portafolio.php
+No syntax errors detected in ./servicios.php
+
+JavaScript:
+- assets/js/app.js: sintaxis correcta
+- assets/js/chatbot.js: sintaxis correcta
+
+Rutas:
+- Referencias PHP estáticas verificadas; no se encontraron destinos inexistentes.
+- admin/usuarios.php eliminado.
+- cliente/chatbot.php eliminado.

@@ -1,0 +1,6 @@
+config/app.php
+config/failover.flag
+config/*.bak
+config/*.bak-failover
+*.sql
+.env
